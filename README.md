@@ -11,5 +11,9 @@ Also list the
 -- the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume" throughout the year.
 
 2014 StockSummary.PNG - 2014 stock summary report snapshot
+
+
 2015 StockSummary.PNG - 2015 stock summary report snapshot
+
+
 2016 StockSummary.PNG - 2016 stock summary report snapshot

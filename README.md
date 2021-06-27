@@ -2,7 +2,7 @@
 
 Contents
 
-mcr_multi_year_stock_data.bas.bas - VBA module to loop through the all of the stock data workbooks in the excel worksheet to track  the The ticker symbol
+mcr_multi_year_stock_data.bas.bas - VBA module to loop through all the stocks for one year and output the report using stock data worksheets in the excel for each ticker symbol:
 -- with Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
 -- The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
 -- The total stock volume of the stock.
